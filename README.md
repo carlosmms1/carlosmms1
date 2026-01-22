@@ -43,9 +43,9 @@ I'm a full-stack developer with a strong foundation in modern web technologies, 
 
 ## GitHub Stats
 
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=carlosmms1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmms1&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<div align="start">
+  <img width="256rem" src="https://github-readme-stats.vercel.app/api?username=carlosmms1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img width="256rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmms1&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </div>
 
 ---
